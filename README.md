@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> https://github.com/prosygalo/img/descarga (1).png
+https://github.com/prosygalo/img/descarga.png
+https://github.com/prosygalo/img/javascript-2189147_960_720.png
+https://github.com/prosygalo/img/logo-2582748_960_720.png
+https://github.com/prosygalo/img/Logo-composer-transparent.png
+https://github.com/prosygalo/img/PHP-logo.svg.png
